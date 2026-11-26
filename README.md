@@ -46,7 +46,6 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Apps & Plugins
 
 - [Shopify App Store](https://apps.shopify.com/) — Official marketplace for Shopify apps.
-
 - [Klaviyo](https://apps.shopify.com/klaviyo-email-marketing) — Email marketing automation for Shopify.
 
 ## Development Tools
@@ -78,7 +77,6 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Google Analytics for Shopify](https://help.shopify.com/en/manual/reports-and-analytics/google-analytics) — Integration guide for Google Analytics.
 - [Hotjar](https://www.hotjar.com/) — Heatmaps and session recording tools.
-
 
 ## Communities & Forums
 
