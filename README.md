@@ -46,7 +46,6 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Apps & Plugins
 
 - [Shopify App Store](https://apps.shopify.com/) — Official marketplace for Shopify apps.
-- [Rewind Backups](https://apps.shopify.com/rewind-backups) — Backup app for Shopify stores.
 - [Klaviyo](https://apps.shopify.com/klaviyo-email-marketing) — Email marketing automation for Shopify.
 
 ## Development Tools
@@ -66,6 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Shopify Academy](https://www.shopify.com/learn) — Free courses on e-commerce and Shopify.
 - [Shopify YouTube Channel](https://www.youtube.com/user/shopify) — Video guides and tutorials.
 - [Shopify Community Tutorials](https://community.shopify.com/c/shopify-design/ct-p/ecommerce-design) — Community-contributed design and development tips.
+- [Swavent Guides](https://swavent.com/en/guides) — Free Shopify, ecommerce, SEO and web development guides.
 
 ## Marketing & SEO
 
@@ -77,7 +77,6 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Google Analytics for Shopify](https://help.shopify.com/en/manual/reports-and-analytics/google-analytics) — Integration guide for Google Analytics.
 - [Hotjar](https://www.hotjar.com/) — Heatmaps and session recording tools.
-- [Littledata](https://apps.shopify.com/google-analytics-connector) — Enhanced analytics app for Shopify.
 
 ## Communities & Forums
 
