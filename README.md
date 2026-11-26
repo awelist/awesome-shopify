@@ -66,7 +66,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Shopify Academy](https://www.shopify.com/learn) — Free courses on e-commerce and Shopify.
 - [Shopify YouTube Channel](https://www.youtube.com/user/shopify) — Video guides and tutorials.
 - [Shopify Community Tutorials](https://community.shopify.com/c/shopify-design/ct-p/ecommerce-design) — Community-contributed design and development tips.
-- - [Swavent Guides](https://swavent.com/en/guides) — Free Shopify, ecommerce, SEO and web development guides.
+- [Swavent Guides](https://swavent.com/en/guides) — Free Shopify, ecommerce, SEO and web development guides.
 
 ## Marketing & SEO
 
